@@ -12,3 +12,8 @@
 - CSS
 - Express.js
 - NestJs
+
+## Education:
+- November 2023 - Present: RS School - Frontend developer
+- October 2022 - Present: Hexlet - Fullstack developer
+- June 2022 - Present: Yandex.Practicum - Fullstack developer
