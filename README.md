@@ -1,1 +1,1 @@
-https://margo-yunanova.github.io/rsschool-cv/
+https://margo-yunanova.github.io/rsschool-cv/cv
